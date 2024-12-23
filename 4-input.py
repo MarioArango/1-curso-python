@@ -1,0 +1,5 @@
+nombre = input('Ingrese su nombre: ')
+edad = input('Ingrese su edad: ')
+edad = int(edad)
+print(f'Su nombre es {nombre} y tiene {edad} años')
+print(type(edad))
